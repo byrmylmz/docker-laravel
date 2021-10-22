@@ -1,0 +1,17 @@
+{
+   "posts":[
+       {
+           "title":"second",
+           "author":"andred"
+       },
+       {
+           "title":"my cool post",
+           "author":"andred"
+       }
+   ],
+   "profile":{
+       "first_name":"andrew",
+       "last_name":"schmelyum",
+       "email":"andret"
+   }
+}
